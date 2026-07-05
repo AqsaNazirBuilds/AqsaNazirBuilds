@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Aqsa Nazir 👋
 
-<!--
-**AqsaNazirBuilds/AqsaNazirBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Graduate from the University of Gujrat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full-Stack & Flutter Developer
+
+🤖 AI & Computer Vision Enthusiast
+
+🌱 Currently learning Deep Learning and Computer Vision
+
+🚀 Open to Remote Internships & Entry-Level Software Engineering Opportunities
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- PHP
+- Python
+- JavaScript
+- Dart
+- SQL
+
+**Frontend**
+
+- HTML5
+- CSS3
+- Bootstrap
+- Flutter
+
+**Backend**
+
+- PHP
+- MySQL
+- Firebase
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Learning Management System
+
+A web-based Learning Management System developed during my software development internship using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+
+🔗 Repository:
+https://github.com/AqsaNazirBuilds/Learning-Management-System
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aqsa-nazir-925ba9237
+- GitHub: https://github.com/AqsaNazirBuilds
+
+---
+⭐ Thanks for visiting my profile!

@@ -59,7 +59,7 @@ https://github.com/AqsaNazirBuilds/Learning-Management-System
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/aqsa-nazir-925ba9237
+- LinkedIn: https://www.linkedin.com/in/aqsa-nazir7
 - GitHub: https://github.com/AqsaNazirBuilds
 
 ---
